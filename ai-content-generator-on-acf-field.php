@@ -1,7 +1,7 @@
 <?php
 /**
  * 
- * This plugin ordered by a client and done by Swati Mishra. Authority dedicated to that cient.
+ * This plugin ordered by Jacob Gerzenshtein and done by Swati Mishra. Full Authority dedicated to Jacob.
  *
  * @wordpress-plugin
  * Plugin Name:       AI Content Generator on ACF field
